@@ -53,6 +53,7 @@ display_policy:
 :::caution
 **为避免软件源配置文件替换后产生问题，请先将系统自带的软件源配置文件进行备份，然后进行下列操作。**
 :::
+test
 
 - 修改 `/etc/apt/sources.list.d/official-package-repositories.list`，把 `packages.linuxmint.com` 替换为镜像源
 
