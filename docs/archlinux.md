@@ -77,3 +77,7 @@ ${SUDO}pacman -Syyuu
 
 1. [校园网联合镜像站](https://mirrors.cernet.edu.cn/about)  
 2. [帮助仓库](https://github.com/mirrorz-org/mirrorz-help)  
+
+## CI测试
+
+欢迎使用华中科技大学开源镜像站HUSTMIRROR！，.
